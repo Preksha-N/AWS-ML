@@ -1,0 +1,2 @@
+- Do not give whitespaces in code unnecessarily
+- Avoid writing extremely long lines of code
